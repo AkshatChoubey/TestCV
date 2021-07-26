@@ -1,0 +1,32 @@
+body {
+  background-color: #ffffe0;
+}
+h1 {
+  color: #ffb6c1;
+}
+h1:hover {
+  color: #808000;
+}
+
+h2:hover {
+  color: #808000;
+}
+h2 {
+  color: #ffb6c1;
+}
+
+  h3:hover {
+    color: #808000;
+}
+
+h3 {
+  color: #ffb6c1;
+}
+
+hr {
+  border-color: #808000;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
